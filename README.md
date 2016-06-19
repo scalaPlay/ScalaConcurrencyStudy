@@ -4,6 +4,10 @@
 
 https://twitter.github.io/scala_school/ko/concurrency.html
 
-JAVA MEmory MOdel
+#JAVA MEmory MOdel
 
 http://changsuk.me/?p=2050
+
+#JVM concurrency: Java and Scala concurrency basics
+
+http://www.ibm.com/developerworks/library/j-jvmc1/
